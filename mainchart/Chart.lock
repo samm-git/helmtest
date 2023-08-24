@@ -1,6 +1,0 @@
-dependencies:
-- name: nginx
-  repository: oci://375672357558.dkr.ecr.eu-west-2.amazonaws.com/p1/p2
-  version: 15.2.0
-digest: sha256:f1440e917935a2c6884dd8235cd97f9b52d659c2aece67a463d7321f03a1de4a
-generated: "2023-08-24T12:27:18.5346+01:00"
