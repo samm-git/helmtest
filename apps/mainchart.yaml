@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: mainchart
-  namespace: testing
+  namespace: argo-cd
 spec:
   destination:
     namespace: mainchart
